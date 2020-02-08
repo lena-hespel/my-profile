@@ -1,7 +1,12 @@
 body {
-	color: #1d4d4f;
+	color: #6ba8a9;
 	font-family: Courier;
 	background-color: #e5dfdf;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	color: #1d4d4f;
 }
 .container {
 	width: 800px;     
